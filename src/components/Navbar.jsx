@@ -82,7 +82,7 @@ const Navbar = () => {
               </Link>
               <Link
                 to="/MyOrders"
-                className="text-gray-600 hover:text-indigo-600 px-3 py-2 font-medium transition-colors"
+                className="text-gray b-600 hover:text-indigo-600 px-3 py-2 font-medium transition-colors"
               >
                 MyOrders
               </Link>
